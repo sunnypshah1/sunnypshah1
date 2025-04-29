@@ -41,10 +41,4 @@ I'm a **Computer Science** student at the **University of Michigan** passionate 
 - [Portfolio](https://sunnypshah1.github.io)
 - [Email Me](mailto:sunnysha@umich.edu)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnypshah1&show_icons=true&theme=default&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypshah1&layout=compact&langs_count=6&theme=default"/>
-</p>
 
